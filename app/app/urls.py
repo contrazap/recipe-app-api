@@ -20,4 +20,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-one=1 # Testing linting in GitHub actions
+one = 1  # Testing linting in GitHub actions
